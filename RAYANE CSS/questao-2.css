@@ -1,0 +1,32 @@
+.fundo-azul-claro {
+    background-color: aqua;
+}
+
+.paragrafo-verde {
+    background-color: greenyellow;
+}
+
+.imagem-de-fundo-fixa {
+    background-image: url(imagem.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.imagem-de-fundo-vertical {
+    background-image: url(imagem.png);
+    background-repeat: repeat-y;
+}
+
+.imagem-de-fundo-sem-repeticao {
+    background-image: url(imagem.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pagina-amarela {
+    background-color: yellow;
+    background-image: url(imagem.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+}
